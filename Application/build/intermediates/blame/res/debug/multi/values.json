@@ -1,0 +1,534 @@
+[
+    {
+        "outputFile": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 60,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 61,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 61,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 63,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2622,
+                    "endColumn": 58,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 58,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endColumn": 56,
+                    "endOffset": 2733
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 56,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2738,
+                    "endColumn": 53,
+                    "endOffset": 2787
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 53,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2792,
+                    "endColumn": 42,
+                    "endOffset": 2830
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 42,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2835,
+                    "endColumn": 69,
+                    "endOffset": 2900
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2905,
+                    "endColumn": 42,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 43,
+                    "endOffset": 2987
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2992,
+                    "endColumn": 44,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endColumn": 42,
+                    "endOffset": 3075
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3080,
+                    "endColumn": 41,
+                    "endOffset": 3117
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3122,
+                    "endColumn": 67,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 55,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 55,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endLine": 36,
+                    "endColumn": 13,
+                    "endOffset": 4489
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4494,
+                    "endLine": 47,
+                    "endColumn": 13,
+                    "endOffset": 4828
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endLine": 29,
+                        "endColumn": 13,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4833,
+                    "endColumn": 50,
+                    "endOffset": 4879
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4884,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 5345
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5350,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 5471
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5476,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5599
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2369,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5604,
+                    "endColumn": 59,
+                    "endOffset": 5659
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5664,
+                    "endColumn": 52,
+                    "endOffset": 5712
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5717,
+                    "endColumn": 26,
+                    "endOffset": 5739
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5744,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5935
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5940,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 6213
+                },
+                "from": {
+                    "file": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

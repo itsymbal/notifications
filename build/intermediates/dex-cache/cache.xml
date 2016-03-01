@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a254d28b845f2b7403780b2de59e35cbbb43bfca">
+        <dex dex="/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_f811e74295f55bc566b3f80dbe624f7ec278cac3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d2c6ae9f627b2b0c93ba7c8cd3347741853e459c">
+        <dex dex="/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_19b4c9ace10209995a34d59c5e6082a3df5cf520/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5725a3c64c236993898f1474b28f32beefc0aa5b">
+        <dex dex="/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_319b0771e47de1e3578283482bdf858582eb2177/classes.dex" />
+    </item>
+
+</items>

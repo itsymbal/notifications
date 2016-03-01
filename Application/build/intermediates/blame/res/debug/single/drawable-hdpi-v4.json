@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_notification.png",
+        "source": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/drawable-hdpi/ic_stat_notification.png"
+    },
+    {
+        "merged": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/itsymbal/projects/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/itsymbal/projects/BasicNotifications/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
